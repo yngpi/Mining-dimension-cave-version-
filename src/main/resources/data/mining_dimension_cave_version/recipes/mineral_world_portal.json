@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stone_bricks"
+    },
+    "1": {
+      "item": "minecraft:light_blue_dye"
+    }
+  },
+  "result": {
+    "item": "mining_dimension_cave_version:mineralworldportal",
+    "count": 1
+  }
+}

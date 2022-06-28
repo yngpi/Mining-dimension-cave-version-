@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:saplings"
+    },
+    "1": {
+      "item": "minecraft:diamond"
+    },
+    "2": {
+      "tag": "minecraft:saplings"
+    },
+    "3": {
+      "item": "minecraft:diamond"
+    },
+    "4": {
+      "item": "minecraft:nether_star"
+    },
+    "5": {
+      "item": "minecraft:diamond"
+    },
+    "6": {
+      "tag": "minecraft:saplings"
+    },
+    "7": {
+      "item": "minecraft:diamond"
+    },
+    "8": {
+      "tag": "minecraft:saplings"
+    }
+  },
+  "result": {
+    "item": "mining_dimension_cave_version:portalcore",
+    "count": 2
+  }
+}

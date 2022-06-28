@@ -1,0 +1,40 @@
+{
+  "textures": {
+    "particle": "mining_dimension_cave_version:blocks/portal_block_1997",
+    "portal": "mining_dimension_cave_version:blocks/portal_block_1997"
+  },
+  "elements": [
+    {
+      "from": [
+        6,
+        0,
+        0
+      ],
+      "to": [
+        10,
+        16,
+        16
+      ],
+      "faces": {
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#portal"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#portal"
+        }
+      }
+    }
+  ]
+}

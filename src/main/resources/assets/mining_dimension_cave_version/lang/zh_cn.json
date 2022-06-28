@@ -1,0 +1,9 @@
+{
+  "block.mining_dimension_cave_version.clayore": "粘土矿",
+  "block.mining_dimension_cave_version.stickyore": "黏性矿",
+  "itemGroup.tabminingdimensioncaveversion": "挖矿维度（洞穴版）",
+  "item.mining_dimension_cave_version.portalcore": "传送门核心",
+  "item.mining_dimension_cave_version.miningdimension_1": "挖矿维度打火石",
+  "biome.mining_dimension_cave_version.miningdimensionlll": "平坦的小群系",
+  "block.mining_dimension_cave_version.mineralworldportal": "挖矿维度传送门"
+}

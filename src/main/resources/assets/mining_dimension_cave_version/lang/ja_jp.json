@@ -1,0 +1,9 @@
+{
+  "block.mining_dimension_cave_version.clayore": "粘土鉱石",
+  "block.mining_dimension_cave_version.stickyore": "粘着性鉱石",
+  "itemGroup.tabminingdimensioncaveversion": "マイニングの次元",
+  "item.mining_dimension_cave_version.portalcore": "ポータルコア",
+  "item.mining_dimension_cave_version.miningdimension_1": "ポータルイグニタ",
+  "biome.mining_dimension_cave_version.miningdimensionlll": "マイニング寸法",
+  "block.mining_dimension_cave_version.mineralworldportal": "ミネラルワールドポータル"
+}

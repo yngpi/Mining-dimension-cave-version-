@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "mining_dimension_cave_version:mineralworldportal",
+    "mining_dimension_cave_version:clayore",
+    "mining_dimension_cave_version:stickyore"
+  ]
+}

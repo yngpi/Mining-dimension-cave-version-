@@ -1,0 +1,9 @@
+{
+  "block.mining_dimension_cave_version.clayore": "глинистая руда",
+  "block.mining_dimension_cave_version.stickyore": "липкая руда",
+  "itemGroup.tabminingdimensioncaveversion": "размер разработки (версия cave uu)",
+  "item.mining_dimension_cave_version.portalcore": "ядро портала",
+  "item.mining_dimension_cave_version.miningdimension_1": "малогабаритный дверной воспламенитель",
+  "biome.mining_dimension_cave_version.miningdimensionlll": "глубина копания",
+  "block.mining_dimension_cave_version.mineralworldportal": "портал минералов"
+}

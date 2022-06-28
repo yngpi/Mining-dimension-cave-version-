@@ -1,0 +1,9 @@
+{
+  "block.mining_dimension_cave_version.clayore": "Clay ore",
+  "block.mining_dimension_cave_version.stickyore": "Sticky ore",
+  "itemGroup.tabminingdimensioncaveversion": "Mining dimension(cave_version)",
+  "item.mining_dimension_cave_version.portalcore": "Portal core",
+  "item.mining_dimension_cave_version.miningdimension_1": "Dyed blue diamond",
+  "biome.mining_dimension_cave_version.miningdimensionlll": "Mining dimension lll",
+  "block.mining_dimension_cave_version.mineralworldportal": "Mineral world portal"
+}
