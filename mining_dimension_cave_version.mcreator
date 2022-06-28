@@ -1,0 +1,186 @@
+{
+  "mod_elements": [
+    {
+      "name": "Mineralworldportal",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mineralworldportal"
+    },
+    {
+      "name": "Miningdimensioncaveversion",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "miningdimensioncaveversion"
+    },
+    {
+      "name": "Portalcore",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "portalcore"
+    },
+    {
+      "name": "Corejei",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corejei"
+    },
+    {
+      "name": "Portaljei",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "portaljei"
+    },
+    {
+      "name": "Miningdimension1",
+      "type": "dimension",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "miningdimension_1",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "Clayore",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "clayore"
+    },
+    {
+      "name": "Stickyore",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stickyore"
+    },
+    {
+      "name": "Jeidjsanc",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jeidjsanc"
+    },
+    {
+      "name": "Miningdimensionlll",
+      "type": "biome",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "miningdimensionlll"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "de_at": {
+      "block.mining_dimension_cave_version.clayore": "Erz von Lehm",
+      "block.mining_dimension_cave_version.stickyore": "Stickiges Erz",
+      "itemGroup.tabminingdimensioncaveversion": "Mining dimension (Grotten-Kombi-Version)",
+      "item.mining_dimension_cave_version.portalcore": "Kern des Portals",
+      "item.mining_dimension_cave_version.miningdimension_1": "Minidimension Portal Zünder",
+      "biome.mining_dimension_cave_version.miningdimensionlll": "Dimension III",
+      "block.mining_dimension_cave_version.mineralworldportal": "Portal für Mineralien"
+    },
+    "ru_ru": {
+      "block.mining_dimension_cave_version.clayore": "глинистая руда",
+      "block.mining_dimension_cave_version.stickyore": "липкая руда",
+      "itemGroup.tabminingdimensioncaveversion": "размер разработки (версия cave uu)",
+      "item.mining_dimension_cave_version.portalcore": "ядро портала",
+      "item.mining_dimension_cave_version.miningdimension_1": "малогабаритный дверной воспламенитель",
+      "biome.mining_dimension_cave_version.miningdimensionlll": "глубина копания",
+      "block.mining_dimension_cave_version.mineralworldportal": "портал минералов"
+    },
+    "is_is": {
+      "block.mining_dimension_cave_version.clayore": "Clay ore",
+      "block.mining_dimension_cave_version.stickyore": "Sticky ore",
+      "itemGroup.tabminingdimensioncaveversion": "Minningast?r?( cave_version)",
+      "item.mining_dimension_cave_version.portalcore": "Portal kjarna",
+      "item.mining_dimension_cave_version.miningdimension_1": "Miningdimension Portal Ignitir",
+      "biome.mining_dimension_cave_version.miningdimensionlll": "Minningast?r? lll",
+      "block.mining_dimension_cave_version.mineralworldportal": "Mineral world portal"
+    },
+    "en_us": {
+      "block.mining_dimension_cave_version.clayore": "Clay ore",
+      "block.mining_dimension_cave_version.stickyore": "Sticky ore",
+      "itemGroup.tabminingdimensioncaveversion": "Mining dimension(cave_version)",
+      "item.mining_dimension_cave_version.portalcore": "Portal core",
+      "item.mining_dimension_cave_version.miningdimension_1": "Dyed blue diamond",
+      "biome.mining_dimension_cave_version.miningdimensionlll": "Mining dimension lll",
+      "block.mining_dimension_cave_version.mineralworldportal": "Mineral world portal"
+    },
+    "da_dk": {
+      "block.mining_dimension_cave_version.clayore": "Clay maln",
+      "block.mining_dimension_cave_version.stickyore": "klaebrig male",
+      "itemGroup.tabminingdimensioncaveversion": "Dimension (huleu version)",
+      "item.mining_dimension_cave_version.portalcore": "Portal kerne",
+      "item.mining_dimension_cave_version.miningdimension_1": "Minimums dimension Portal lgniter",
+      "biome.mining_dimension_cave_version.miningdimensionlll": "Dimension til minedrift",
+      "block.mining_dimension_cave_version.mineralworldportal": "Portal i mineralverden"
+    },
+    "uk_ua": {
+      "block.mining_dimension_cave_version.clayore": "Клайнова руда",
+      "block.mining_dimension_cave_version.stickyore": "Л?пкий руд",
+      "itemGroup.tabminingdimensioncaveversion": "Розм?р м?ни( верс?я_ печери)",
+      "item.mining_dimension_cave_version.portalcore": "Адреса порталу",
+      "item.mining_dimension_cave_version.miningdimension_1": "М?нуванняdimension Portal Igniter",
+      "biome.mining_dimension_cave_version.miningdimensionlll": "Вим?р м?ни IIl",
+      "block.mining_dimension_cave_version.mineralworldportal": "Портал м?нерального св?ту"
+    },
+    "zh_cn": {
+      "block.mining_dimension_cave_version.clayore": "粘土矿",
+      "block.mining_dimension_cave_version.stickyore": "黏性矿",
+      "itemGroup.tabminingdimensioncaveversion": "挖矿维度（洞穴版）",
+      "item.mining_dimension_cave_version.portalcore": "传送门核心",
+      "item.mining_dimension_cave_version.miningdimension_1": "挖矿维度打火石",
+      "biome.mining_dimension_cave_version.miningdimensionlll": "平坦的小群系",
+      "block.mining_dimension_cave_version.mineralworldportal": "挖矿维度传送门"
+    },
+    "ja_jp": {
+      "block.mining_dimension_cave_version.clayore": "粘土鉱石",
+      "block.mining_dimension_cave_version.stickyore": "粘着性鉱石",
+      "itemGroup.tabminingdimensioncaveversion": "マイニングの次元",
+      "item.mining_dimension_cave_version.portalcore": "ポータルコア",
+      "item.mining_dimension_cave_version.miningdimension_1": "ポータルイグニタ",
+      "biome.mining_dimension_cave_version.miningdimensionlll": "マイニング寸法",
+      "block.mining_dimension_cave_version.mineralworldportal": "ミネラルワールドポータル"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "mining_dimension_cave_version",
+    "modName": "Mining_dimension(cave_version)",
+    "version": "1.0.0",
+    "author": "asus, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.miningdimensioncaveversion",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100353117
+}
