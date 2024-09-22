@@ -1,3 +1,3 @@
 # Mining-dimension-cave-version-
-一个我的世界模组。
+Provides a dimension specifically designed for mining!
 A Minecraft 1.17,1.16.5 
